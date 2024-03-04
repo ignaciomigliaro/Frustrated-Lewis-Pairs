@@ -1,2 +1,3 @@
 # Frustrated Lewis Pairs
+This is the repo for the Research Article: Integrated Study on Methane Activation: Exploring Main Group Frustrated Lewis Pairs through Density Functional Theory, Machine Learning, and Machine Learned Force Fields. Here you can find the code used to generate all of the Frustrated Lewis pairs, the model weights , and the hyperparameters used to train the MLFF model. 
 The code found in this repo has been used for the generation of combination of Lewis acids , Lewis bases, and their substituents, then ran through a random generator to be studied with the use of Machine learning. All code is in Python and is self contained. 
